@@ -1,0 +1,144 @@
+
+body{
+    font-family: poppins;
+}
+a{
+    text-decoration: none!important;
+}
+
+.mybtn{
+    margin-left: 25px;
+    color: #fff;
+    border-radius: 5px;
+    padding: 6px 25px 8px 25px;
+    white-space: nowrap;
+    transition: 0.3s;
+    font-size: 14px;
+    font-weight: 600;
+    display: inline-block;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background: transparent;
+}
+
+.mybtn2{
+    margin-left: 25px;
+    color: #fff;
+    border-radius: 5px;
+    padding: 6px 25px 8px 25px;
+    white-space: nowrap;
+    transition: 0.3s;
+    font-size: 14px;
+    font-weight: 600;
+    display: inline-block;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background: rgba(24, 6, 185, 0.8);
+}
+
+.mybtn3{
+    color: #fff;
+    border-radius: 5px;
+
+    white-space: nowrap;
+    transition: 0.3s;
+    font-size: 14px;
+    font-weight: 600;
+    display: inline-block;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background: rgba(24, 6, 185, 0.8);
+}
+
+nav .active{
+    color:white;
+}
+
+
+.cover{
+    background-image: url('../img/cover.jpg');
+    background-size: cover;
+    height: 200px;
+}
+
+.prof-title{
+    font-size: 30px;
+    font-family: poppins;
+    margin: 0px;
+    
+}
+.prof-detail{
+    font-size: 15px;
+    font-family: poppins;
+}
+
+.profile .tab-content{
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 500px;
+}
+
+.profile-container{
+    max-width: 1300px;
+    margin: auto;
+    padding: 0px 10px;
+}
+
+.profile-image{
+  max-width: 340px;
+}
+
+.my-alert{
+    top: 74px;
+    right: 58px;
+    position: fixed;
+    z-index: 1;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    .profile-container{
+        margin: auto;
+        padding: 0px 30px;
+    }
+
+    .profile .nav-tabs{
+        padding-top: 20px;
+    }
+  }
+
+
+
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    // box-shadow: inset 0 0 5px #2411C4; 
+    // border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #2411C4; 
+    // border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #7235E4; 
+  }
+
+
+  #loader{
+    position: fixed;
+    width: 100%;
+    background: #362FC2;
+    height: 100vh;
+    z-index: 4;
+  }
+
+  .portfolio-single img{
+      max-width: 500px!important;
+      max-width: auto;
+
+  }
