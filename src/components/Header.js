@@ -19,7 +19,7 @@ const Header = (Props) => {
           <h1 className="logo mr-auto">
             <NavLink to="/">Techie</NavLink></h1>
             <NavLink to="/" className="logo mr-auto">
-               <img src="assets/img/logo.png" alt="" className="img-fluid" />
+               <img src="%PUBLIC_URL%/assets/img/logo.png" alt="" className="img-fluid" />
              </NavLink>
             <nav className="nav-menu d-none d-lg-block">
                 <ul>

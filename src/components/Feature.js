@@ -1,5 +1,5 @@
 import React from 'react';
-
+import featureImg from '../assets/img/features.png'
 const Feature = () => {
   
   return ( <>
@@ -33,7 +33,7 @@ const Feature = () => {
             </div>
           </div>
           <div className="image col-lg-6  order-lg-2 " >
-            <img src="assets/img/features.png" className="img-fluid" alt="" />
+            <img src={featureImg} className="img-fluid" alt="" />
           </div>
         </div>
       </div>

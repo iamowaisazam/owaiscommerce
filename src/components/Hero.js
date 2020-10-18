@@ -1,5 +1,6 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom';
+import heroImg from '../assets/img/hero-img.png';
 const Hero = () => {
   return ( <>
   <section id="hero" className="d-flex align-items-center">
@@ -11,7 +12,7 @@ const Hero = () => {
             <div><NavLink to="/service" className="btn-get-started scrollto">Get Started</NavLink></div>
             </div>
             <div className="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" >
-               <img src="./assets/img/hero-img.png" className="img-fluid animated" alt="" />
+               <img src={heroImg} className="img-fluid animated" alt="" />
             </div>
         </div>
         </div>

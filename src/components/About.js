@@ -1,5 +1,6 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom';
+import aboutImg from '../assets/img/about.jpg'
 
 const About = (Props) => {
   return ( <>
@@ -7,7 +8,7 @@ const About = (Props) => {
       <div className="container">
         <div className="row">
           <div className="col-lg-6 order-1 order-lg-2" >
-            <img src="assets/img/about.jpg" className="img-fluid" alt="" />
+            <img src={aboutImg} className="img-fluid" alt="" />
           </div>
           <div className="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" >
             <h3>We provide a complete suite of digital services Our agile approach helps you manage your growth</h3>

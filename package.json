@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://iamowaisazam.github.io/laravelstartup",
+  "homepage": "https://iamowaisazam.github.io/techie",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -29,6 +29,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "deploy": "gh-pages -b master -d build",
+    "clean" : "gh-pages-clean",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
