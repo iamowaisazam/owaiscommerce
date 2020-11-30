@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/owaiscommerce/static/css/main.fd83cbd6.chunk.css",
-    "main.js": "/owaiscommerce/static/js/main.d86c58ce.chunk.js",
-    "main.js.map": "/owaiscommerce/static/js/main.d86c58ce.chunk.js.map",
+    "main.js": "/owaiscommerce/static/js/main.15051988.chunk.js",
+    "main.js.map": "/owaiscommerce/static/js/main.15051988.chunk.js.map",
     "runtime-main.js": "/owaiscommerce/static/js/runtime-main.e75d1b68.js",
     "runtime-main.js.map": "/owaiscommerce/static/js/runtime-main.e75d1b68.js.map",
     "static/css/2.b556e4ac.chunk.css": "/owaiscommerce/static/css/2.b556e4ac.chunk.css",
-    "static/js/2.e0de4771.chunk.js": "/owaiscommerce/static/js/2.e0de4771.chunk.js",
-    "static/js/2.e0de4771.chunk.js.map": "/owaiscommerce/static/js/2.e0de4771.chunk.js.map",
+    "static/js/2.de473ca1.chunk.js": "/owaiscommerce/static/js/2.de473ca1.chunk.js",
+    "static/js/2.de473ca1.chunk.js.map": "/owaiscommerce/static/js/2.de473ca1.chunk.js.map",
     "index.html": "/owaiscommerce/index.html",
-    "precache-manifest.0efff5730d2242dab45aaba65a840ff5.js": "/owaiscommerce/precache-manifest.0efff5730d2242dab45aaba65a840ff5.js",
+    "precache-manifest.5a3615f5986dd1d86ef9421f89200ba1.js": "/owaiscommerce/precache-manifest.5a3615f5986dd1d86ef9421f89200ba1.js",
     "service-worker.js": "/owaiscommerce/service-worker.js",
     "static/css/2.b556e4ac.chunk.css.map": "/owaiscommerce/static/css/2.b556e4ac.chunk.css.map",
     "static/css/main.fd83cbd6.chunk.css.map": "/owaiscommerce/static/css/main.fd83cbd6.chunk.css.map",
-    "static/js/2.e0de4771.chunk.js.LICENSE.txt": "/owaiscommerce/static/js/2.e0de4771.chunk.js.LICENSE.txt",
+    "static/js/2.de473ca1.chunk.js.LICENSE.txt": "/owaiscommerce/static/js/2.de473ca1.chunk.js.LICENSE.txt",
     "static/media/01.jpg": "/owaiscommerce/static/media/01.cfcc90f7.jpg",
     "static/media/02.jpg": "/owaiscommerce/static/media/02.ceffd6f1.jpg",
     "static/media/03.jpg": "/owaiscommerce/static/media/03.fa39f538.jpg",
@@ -72,8 +72,8 @@
   "entrypoints": [
     "static/js/runtime-main.e75d1b68.js",
     "static/css/2.b556e4ac.chunk.css",
-    "static/js/2.e0de4771.chunk.js",
+    "static/js/2.de473ca1.chunk.js",
     "static/css/main.fd83cbd6.chunk.css",
-    "static/js/main.d86c58ce.chunk.js"
+    "static/js/main.15051988.chunk.js"
   ]
 }
