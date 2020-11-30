@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bab865c2ea26da16baf983ffea40d49",
+    "revision": "2ccd165461bc9c804dcbf1665801ea67",
     "url": "/owaiscommerce/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/owaiscommerce/static/css/2.b556e4ac.chunk.css"
   },
   {
-    "revision": "9c62a6208471bb5debb2",
+    "revision": "6f1a89164cd4920264e9",
     "url": "/owaiscommerce/static/css/main.fd83cbd6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/owaiscommerce/static/js/2.e0de4771.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c62a6208471bb5debb2",
-    "url": "/owaiscommerce/static/js/main.abb5e936.chunk.js"
+    "revision": "6f1a89164cd4920264e9",
+    "url": "/owaiscommerce/static/js/main.d86c58ce.chunk.js"
   },
   {
     "revision": "e64ed4a376cc41393782",

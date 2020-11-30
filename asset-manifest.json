@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/owaiscommerce/static/css/main.fd83cbd6.chunk.css",
-    "main.js": "/owaiscommerce/static/js/main.abb5e936.chunk.js",
-    "main.js.map": "/owaiscommerce/static/js/main.abb5e936.chunk.js.map",
+    "main.js": "/owaiscommerce/static/js/main.d86c58ce.chunk.js",
+    "main.js.map": "/owaiscommerce/static/js/main.d86c58ce.chunk.js.map",
     "runtime-main.js": "/owaiscommerce/static/js/runtime-main.e75d1b68.js",
     "runtime-main.js.map": "/owaiscommerce/static/js/runtime-main.e75d1b68.js.map",
     "static/css/2.b556e4ac.chunk.css": "/owaiscommerce/static/css/2.b556e4ac.chunk.css",
     "static/js/2.e0de4771.chunk.js": "/owaiscommerce/static/js/2.e0de4771.chunk.js",
     "static/js/2.e0de4771.chunk.js.map": "/owaiscommerce/static/js/2.e0de4771.chunk.js.map",
     "index.html": "/owaiscommerce/index.html",
-    "precache-manifest.7b5f1e6a2ff9e45b68052cb8619610f0.js": "/owaiscommerce/precache-manifest.7b5f1e6a2ff9e45b68052cb8619610f0.js",
+    "precache-manifest.0efff5730d2242dab45aaba65a840ff5.js": "/owaiscommerce/precache-manifest.0efff5730d2242dab45aaba65a840ff5.js",
     "service-worker.js": "/owaiscommerce/service-worker.js",
     "static/css/2.b556e4ac.chunk.css.map": "/owaiscommerce/static/css/2.b556e4ac.chunk.css.map",
     "static/css/main.fd83cbd6.chunk.css.map": "/owaiscommerce/static/css/main.fd83cbd6.chunk.css.map",
@@ -74,6 +74,6 @@
     "static/css/2.b556e4ac.chunk.css",
     "static/js/2.e0de4771.chunk.js",
     "static/css/main.fd83cbd6.chunk.css",
-    "static/js/main.abb5e936.chunk.js"
+    "static/js/main.d86c58ce.chunk.js"
   ]
 }
