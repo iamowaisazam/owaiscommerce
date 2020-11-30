@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/owaiscommerce/precache-manifest.6b50953e64a818826c5a4d84bc031219.js"
+  "/owaiscommerce/precache-manifest.6052547aae0c382f99c13017c4b1309d.js"
 );
 
 self.addEventListener('message', (event) => {
