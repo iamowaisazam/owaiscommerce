@@ -1,0 +1,57 @@
+
+/* .cart-table .form-product{
+    border: 1px solid #ced4da;
+    width: 80px;
+} */
+
+.close-link{
+    background: none;
+    border: none;
+    color: #FF324D;
+
+}
+
+.pointer {cursor: pointer;}
+
+.swal-footer{
+    text-align: center;
+}
+
+.swal-button {
+    background-color: #08b0ff;
+    color: #fff;
+    border: none;
+    box-shadow: none;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 10px 24px;
+    margin: 0;
+    cursor: pointer;
+}
+
+.dashboard-page{
+    padding: 0px;
+}
+
+.dashboard_menu{
+    border-bottom: 1px solid lightgray;
+    padding-top:20px ;
+    padding-bottom: 10px;
+}
+
+.dashboard_content{
+    padding: 10px 0px!important;
+}
+
+.dashboard-page .nav-tabs .nav-link.active {
+     background: transparent;
+    color: #FF324D;
+    font-weight: 600;
+}
+
+.dashboard-page .nav-tabs .nav-link {
+    background: transparent;
+    color: #171616;
+    font-weight: 600;
+}
